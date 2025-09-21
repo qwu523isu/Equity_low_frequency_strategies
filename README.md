@@ -1,1 +1,1 @@
-# Equity_low_frequency_strategies
+# Equity_low_frequency_strategies -- Momentum1
